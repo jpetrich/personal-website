@@ -3,6 +3,10 @@ title: "Unboxing a new Model F Keyboard"
 published: true
 ---
 
+Update 01-30-2021: Originally, I incorrectly asserted that the keyboards would ship with the keys
+pre-installed when the dye sublimated ones are ready. This was incorrect, and the article has been
+updated to reflect that.
+
 In the summer of 2017, I heard of an intriguing project to reproduce a classic and well-loved keyboard,
 the IBM Model F. The Model F is known for its unique keypress action - the buckling spring. Unlike most
 mechanical keyboard switches, the switch in a buckling spring keyboard gives the spring in each key
@@ -56,9 +60,9 @@ of manufacture.
 Installing the keys is not a particularly quick process, but there are lots of helpful tips on the
 project website. The basic process includes holding the keyboard vertically, with the spacebar up,
 pressing each key into its slot, ensuring it depresses with a compelling motion and noise, and then
-moving onto the next key until all the keys are seated. When the dye sublimated keys are available, the
-keyboards will ship with the keys pre-installed, but the buckling springs may get disturbed in shipping,
-so it's a process that would behoove any Model F keyboard owner to get comfortable with.
+moving onto the next key until all the keys are seated. It's not a difficult process, and since the
+keyboard is designed to last practically forever, it's a process that would behoove any Model F
+keyboard owner to get comfortable with.
 
 ![assembled keyboard](/assets/modelf/keyboard_top.jpg)
 ![assembled keyboard at an angle](/assets/modelf/keyboard_angle.jpg)
