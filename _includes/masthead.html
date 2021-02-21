@@ -53,7 +53,31 @@
   </div>
 {% endif %}
 
+<form class="form-horizontal" enctype='application/json' action='https://us-east4-joepetrich.cloudfunctions.net/emailSignup' method='POST'>
+  <fieldset>
+  
+  <!-- Form Name -->
+  <h3 class="text-white mb-2 lh-condensed">Sign up for email updates</h3>
+  
+  <!-- Text input-->
+  <div class="form-group">
+    <label class="text-white" for="textinput" style="padding-right:10px">Email address:</label>  
+    <input id="email" name="email" type="text" placeholder="me@domain.com">
+    <div class="text-white">I'll send you an email with a link to verify your address.</div>  
+  </div>
+  
+  <!-- Button -->
+  <div class="form-group">
+    <label class="col-md-4 control-label" for="singlebutton"></label>
+      <button id="singlebutton" name="singlebutton" class="btn btn-primary">Sign up</button>
+  </div>
+  
+  </fieldset>
+  </form>
+
 <p class="mb-3 f4 {% if site.style == 'dark' %}text-gray{% else %}text-gray{% endif %}">
   The opinions stated here are my own, not those of my company.
 </p>
+
+
 
