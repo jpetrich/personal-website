@@ -5,11 +5,11 @@ published: true
 
 I've been interested in cryptocurrencies for several years, and [recently got into the technical
 side of them](https://joepetrich.com/2021/07/24/hack-money-hackathon/), learning to build on top
-of Ethereum. As I learned more, my interested in the foundation of cryptocurrencies increased,
+of Ethereum. As I learned more, my interest in the foundation of cryptocurrencies increased,
 and so I read a couple of introductions to cryptography - [Crypto](https://en.wikipedia.org/wiki/Crypto_(book))
 and [The Code Book](https://en.wikipedia.org/wiki/The_Code_Book). Learning about the cryptography
 throughout the centuries, culminating in information theory and the battle around public key
-cryptography and a secure internet in the late 20th century made me want to learn more about the
+cryptography and a secure internet in the late 20th century, made me want to learn more about the
 fundamental math and computer science behind the cryptography that enables a secure internet,
 decentralized blockchains, and self sovereignty. To that end, I decided to work through
 [MIT 6.875 - Foundations of Cryptography](https://mit6875.github.io/) which has lectures, papers,
