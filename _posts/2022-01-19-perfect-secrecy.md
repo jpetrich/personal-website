@@ -1,5 +1,5 @@
 ---
-title: "Perfect Secrecy?"
+title: "Perfect Secrecy"
 published: true
 ---
 
