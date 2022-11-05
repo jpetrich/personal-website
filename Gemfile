@@ -4,3 +4,5 @@ gem "jekyll-github-metadata"
 gem "jekyll-octicons"
 gem "jemoji"
 gem "jekyll-feed"
+
+gem "faraday-retry", "~> 2.0"
