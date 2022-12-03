@@ -1,19 +1,12 @@
 ---
-title: "The race to the bottom on NFT royalties"
+title: "Intro to SRE for Founders - a 6 week email-based course"
 published: true
 ---
 
-If you pay any attention to the web3 landscape, you may have seen commotion recently about royalties. One of the most attractive things about NFTs for creators is the expectation that the creator of an NFT collection receives royalties on all sales of the NFT. Whereas in the traditional art world it’s impossible for an artist to monetize the increase in value of their older works, with NFTs, an artist’s earnings continue with each secondary sale, and are set at a percentage of the sale price.
+I've decided to try something new, and launch an email course for the first time. I don't have a big audience, but this is something I've been thinking about for a while and that I think many people could benefit from. The course is called Intro to SRE for Founders, and it's designed to teach the basics of site reliability engineering to startup founders. In the course course, you'll learn about the basics of SRE, including key concepts and principles. You'll also learn about tools and techniques for monitoring and incident management, and how to implement best practices for SRE in your company.
 
-But how do NFT royalties work? While there is a [standard](https://eips.ethereum.org/EIPS/eip-2981) for defining royalties, its implementation is unenforceable from the point of view of the creator. This is because trading of NFTs is done through marketplace contracts like [OpenSea’s](https://opensea.io) [Seaport](https://opensea.io/blog/announcements/introducing-seaport-protocol/). In practice, this means that royalties are set up with each marketplace separately, and creators trust the marketplaces to enforce royalties on each transaction. Collectors put up with this until recently, because OpenSea is the dominant NFT marketplace and respects royalties. However, newer marketplaces have realized that royalties are an area of competition, so there has been a race to the bottom, with [Magic Eden](https://magiceden.io/), [X2Y2](https://x2y2.io/), and [Blur](https://blurr.cc/) making royalties optional for purchasers, and [LooksRare](https://looksrare.org/) reducing royalties to a fixed 2% across the platform, with only a quarter of that going to creators.
+The course is based on my own experiences as an SRE at Google, as well as my experiences building a startup from scratch with SRE principles in mind. I'll be sharing my own learnings and insights with you, and providing you with the knowledge and skills you need to succeed with SRE in your own startup.
 
-While this race to the bottom was inevitable, the question now is how to continue to make NFTs a valuable means of income for creators and artists. Several approaches are being debated across the web3 community, including:
+The way the course works is that each week you'll receive a new email that covers a different topic in detail. The emails are easy to read and understand, and are designed to provide you with a step-by-step introduction to SRE. Each week's email is around 1000-1500 words, so it's digestible but also informative.
 
-*   Creators should just charge more for the initial mint, or reserve a number of NFTs for themselves to sell later, if their work appreciates in value. This works for new collections, but doesn’t help creators with existing contracts.
-    
-*   Royalties should be optional, but someone should track who chooses to honor them, and the community will reward those who pay royalties over time. This is optimistic and doesn’t guarantee any income for creators.
-    
-*   Creators should choose to block marketplaces that don’t honor royalties from interacting with their NFT contracts. This will work for future contracts, but seems to be opposed to decentralization, and benefits OpenSea directly unless other marketplaces go back to requiring royalties.
-    
-
-What do you think the best way forward is? Reach out on [Farcaster](https://www.farcaster.xyz/), [Twitter](https://twitter.com/jpetrichsr), or via [email](mailto:joe@petrich.xyz) and let me know! I plan on sharing my thoughts in the next few weeks.
+So, if you're ready to learn more about SRE and how it can help your startup, sign up for my 6-week email-based introduction to SRE course today! You'll get access to all 6 weekly emails, plus any additional content on this topic I decide to write and add down the line. Be one of the first people to sign up with this link and you'll get the course for the alpha-tester price of $10: https://course.joepetrich.com/products/6-week-intro-to-sre?promo=FIRST10. I'd love your feedback and to make this something that can help many founders down the road.
