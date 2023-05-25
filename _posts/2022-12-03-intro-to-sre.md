@@ -1,9 +1,8 @@
 ---
 title: "Intro to SRE for Founders - a 6 week email-based course"
-published: true
+published: false 
 ---
-
-I've decided to try something new, and launch an email course for the first time. I don't have a big audience, but this is something I've been thinking about for a while and that I think many people could benefit from. The course is called Intro to SRE for Founders, and it's designed to teach the basics of site reliability engineering to startup founders. In the course course, you'll learn about the basics of SRE, including key concepts and principles. You'll also learn about tools and techniques for monitoring and incident management, and how to implement best practices for SRE in your company.
+I've decided to try something new, and launch an email course for the first time. I don't have a big audience, but this is something I've been thinking about for a while and that I think many people could benefit from. The course is called Intro to SRE for Founders,tartup founders. In the course course, you'll learn about the basics of SRE, including key concepts and principles. You'll also learn about tools and techniques for monitoring and incident management, and how to implement best practices for SRE in your company.
 
 The course is based on my own experiences as an SRE at Google, as well as my experiences building a startup from scratch with SRE principles in mind. I'll be sharing my own learnings and insights with you, and providing you with the knowledge and skills you need to succeed with SRE in your own startup.
 
